@@ -13,3 +13,4 @@
 * Claude : About artificial intelligence
 * Hexa : Kakao Brain introduction
 * Brian : Closing remarks
+Slides are to be uploaded
