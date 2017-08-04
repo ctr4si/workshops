@@ -1,6 +1,6 @@
 # Overview
 * Date : 7th April, 2017
-* Location : Seoul conference room (7F), Kakao Office Pangyo
+* Location : Seoul conference room (6F), Kakao Office Pangyo
 
 # Program
 * Jimmy : Opening remarks
