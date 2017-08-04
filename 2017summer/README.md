@@ -17,6 +17,6 @@
 * Sung-Wook Jeon : Music Generation
 * Moon-Jung Chae : Speech Recognition / Synthesis
 * Hee-Woong Park : Speaker Recognition
-* : Audio Tagging, Instrument Identification using MIDI Dataset
-* : Cover Song Identification
+* MARG : Audio Tagging, Instrument Identification using MIDI Dataset
+* MARG : Cover Song Identification
 - Slides are to be uploaded
