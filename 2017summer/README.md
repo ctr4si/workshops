@@ -17,6 +17,6 @@
 * Music Generation, Sung-Wook Jeon (Information Management Lab, SNU)
 * Speech Recognition / Synthesis, Moon-Jung Chae (Information Management Lab, SNU)
 * Speaker Recognition, Hee-Woong Park (Information Management Lab, SNU)
-* Audio Tagging, Instrument Identification using MIDI Dataset, MARG (Music and Audio Research Group, SNU)
-* Cover Song Identification, MARG (Music and Audio Research Group, SNU)
+* Audio Tagging, Instrument Identification using MIDI Dataset, Hyungui Lim (Music and Audio Research Group, SNU)
+* Cover Song Identification, Hugh Kim (Music and Audio Research Group, SNU)
 - Slides are to be uploaded
