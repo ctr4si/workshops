@@ -3,20 +3,20 @@
 * Location : SwitchOn conference room (7F), Kakao Office Pangyo
 
 # Program
-* Prof. Jonghun Park : Opening remarks
-* Chul-hyung Lee, Gyung-suk Jang : Characterizing Neural Network Optimization Problems
-* Chunseong Park : Personalized Image Captioning with Context Sequence Memory Networks
-* Yookoon Park : Hierarchical Scene-Character Modeling for Generating Conversations
-* Yunseok Jang : Toward Spatio-Temporal Reasoning in Visual Question Answering
-* Jihye Yun : Artificial Intelligence in Medicine
-* Yongwon Cho : Data Building in Medical Environment
-* Areum Lee, Younghwa Byeon : ENT Surgery Video
-* BeomHee Park : Three-dimensional Data Analysis in Medical Imaging
-* Younggon Kim : AI for Pathology
-* Ilsang Woo : Application of cGAN in Medical Imaging
-* Sung-Wook Jeon : Music Generation
-* Moon-Jung Chae : Speech Recognition / Synthesis
-* Hee-Woong Park : Speaker Recognition
-* MARG : Audio Tagging, Instrument Identification using MIDI Dataset
-* MARG : Cover Song Identification
+* Opening remarks, Prof. Jonghun Park (Information Management Lab, SNU)
+* Characterizing Neural Network Optimization Problems, Chul-hyung Lee and Gyung-suk Jang (Probability and Optimization with Applications, KAIST)
+* Personalized Image Captioning with Context Sequence Memory Networks, Chunseong Park (Vision and Learning Lab, SNU)
+* Hierarchical Scene-Character Modeling for Generating Conversations, Yookoon Park (Vision and Learning Lab, SNU)
+* Toward Spatio-Temporal Reasoning in Visual Question Answering, Yunseok Jang (Vision and Learning Lab, SNU)
+* Artificial Intelligence in Medicine, Jihye Yun (Medical Imaging & Robotics Lab, AMC/UU)
+* Data Building in Medical Environment, Yongwon Cho (Medical Imaging & Robotics Lab, AMC/UU)
+* ENT Surgery Video, Areum Lee and Younghwa Byeon (Medical Imaging & Robotics Lab, AMC/UU)
+* Three-dimensional Data Analysis in Medical Imaging, BeomHee Park (Medical Imaging & Robotics Lab, AMC/UU)
+* AI for Pathology, Younggon Kim (Medical Imaging & Robotics Lab, AMC/UU)
+* Application of cGAN in Medical Imaging, Ilsang Woo (Medical Imaging & Robotics Lab, AMC/UU)
+* Music Generation, Sung-Wook Jeon (Information Management Lab, SNU)
+* Speech Recognition / Synthesis, Moon-Jung Chae (Information Management Lab, SNU)
+* Speaker Recognition, Hee-Woong Park (Information Management Lab, SNU)
+* Audio Tagging, Instrument Identification using MIDI Dataset, MARG (Music and Audio Research Group, SNU)
+* Cover Song Identification, MARG (Music and Audio Research Group, SNU)
 - Slides are to be uploaded
