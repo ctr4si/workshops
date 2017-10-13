@@ -8,7 +8,9 @@
 * Kakao AI research trends, Claude (Kakao)
 * Kakao Brain research presentation, Ryan (Kakao Brain)
 * Kakao Brain Cloud Platform introduction, Dave (Kakao Brain)
-* 
+* Chord Generation from Symbolic Melody using BLSTM Networks, Donmoon Lee (Music and Audio Research Group, SNU)
+* Retrieval by Cross-modal Query, Donmoon Lee (Music and Audio Research Group, SNU)
+* Cover song identification with Song-to-Song Distance Representations using Convolutional Neural Network, 
 
 * Characterizing Neural Network Optimization Problems, Chul-hyung Lee and Gyung-suk Jang (Probability and Optimization with Applications, KAIST)
 * Personalized Image Captioning with Context Sequence Memory Networks, Chunseong Park (Vision and Learning Lab, SNU)
