@@ -1,5 +1,5 @@
 # Overview
-* Date : 13th August, 2017
+* Date : 13th October, 2017
 * Location : SwitchOn conference room (7F), Kakao Office Pangyo
 
 # Program
