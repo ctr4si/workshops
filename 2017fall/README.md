@@ -1,7 +1,7 @@
 # Overview
 * Date : 13th October, 2017
 * Location : SwitchOn conference room (7F), Kakao Office Pangyo
-* Video : [![2017fallThumb](http://csi.snu.ac.kr/img/sub/2017fallThumb.jpg)](http://tv.kakao.com/v/378863775)
+* Video : (Links to Kakao TV) [![2017fallThumb](http://csi.snu.ac.kr/img/sub/2017fallThumb.jpg)](http://tv.kakao.com/v/378863775)
 
 # Program
 * Opening remarks, Prof. Jonghun Park (Information Management Lab, SNU)
