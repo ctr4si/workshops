@@ -8,7 +8,6 @@
 * Unmet needs and issues of medical AI, Prof. Namguk Kim (Medical Imaging & Robotics Lab, AMC/UU)
 * Lab & research introduction, Prof. Joseph Lim (USC)
 * Lab & research introduction, Prof. Jinwoo Shin (Algorithmic Intelligence Lab, KAIST)
-* Icebreaking ()
 
 # Program (18th)
 * Opening remarks, Prof. Jonghun Park (Information Management Lab, SNU)
