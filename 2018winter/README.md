@@ -31,7 +31,7 @@
 * Image Ranking by Learning Efficient Multi-level Feature Representation, Sangkeun Choe (Music and Audio Research Group, SNU)
 * Unsupervised TTS and ASR with GAN, Moon-Jung Chae (Information Management Lab, SNU)
 * Labeling and Automated Detection of Traumatic Brain Injury using CT scans in the Emergency Rooms, Areum Lee (Medical Imaging & Robotics Lab, AMC/UU)
-* Data augmentation using Perlin noise for DILD classification, Hyunjin Bae (Medical Imaging & Robotics Lab, AMC/UU)
+* Data augmentation using Perlin noise for DILD classification, Hyun-Jin Bae (Medical Imaging & Robotics Lab, AMC/UU)
 * Deep Survival, Jihye Yun (Medical Imaging & Robotics Lab, AMC/UU)
 * Brain tumor segmentation, Sungwon Ham (Medical Imaging & Robotics Lab, AMC/UU)
 * Decomposable state and action embeddings for exploration and planning, Jaekyeom Kim (Machine Learning Lab, SNU)
