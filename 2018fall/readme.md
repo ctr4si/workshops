@@ -5,7 +5,7 @@
 # Program
 * Opening remarks, Prof. Jonghun Park (Information Management Lab, SNU)
 * Transposition-Invariant Cove Song Identification System using Patch-wise Optimal Transposition Index, 이주헌 (Music and Audio Research Group, SNU)
-* Learning to Specialize with Knowledge Distillation for Visual Question Answering, 문종환 (Computer Vision Lab, SNU)
+* Learning to Specialize with Knowledge Distillation for Visual Question Answering, Jonghwan Mun (Computer Vision Lab, SNU)
 * Efficient end-to-end learning for quantizable representation, Jaekyeom Kim (Machine Learning Lab, SNU)
 * Directional Analysis of Stochastic Gradient Descent via von Mises-Fisher Distributions in Deep learning, Chul-hyung Lee (Probability and Optimization with Applications, KAIST)
 * ENT - Simple Mastoidectomy Video Surgery based on Deep Learning, 정진훈 (Medical Imaging & Intelligent Reality Lab, AMC/UU)
@@ -15,7 +15,7 @@
 * Semantic-aware image compression using gan, 최진영 (Computer Vision Lab, SNU)
 * A robust MRI classification strategy for distinguishing glioblastoma from primary central nervous system lymphoma, Jihye Yun (Medical Imaging & Intelligent Reality Lab, AMC/UU)
 * Towards multi-level language modeling, Hee-Woong Park (Information Management Lab, SNU)
-* Real-Time MDNet, 정일채 (Computer Vision Lab, SNU)
+* Real-Time MDNet, Ilchae Jung (Computer Vision Lab, SNU)
 * Improving TTS and ASR Models with Non-parallel Corpora, Moon-Jung Chae (Information Management Lab, SNU)
 * Natural Audio Captioning, Byeongchang Kim (Vision and Learning Lab, SNU)
 * Music tagging with meta-learner, Sungkyun Chang (Music and Audio Research Group, SNU)
