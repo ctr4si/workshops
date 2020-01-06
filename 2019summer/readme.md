@@ -4,6 +4,8 @@
 
 # Program
 * Opening remarks, Prof. Jonghun Park (Information Management Lab, SNU)
+* Fast autoaug and nas, leo.brain (Kakao Brain)
+* Scene Graph, epsilon (Kakao Brain)
 * Content Based Image Retrieval using Scene Graph Matching, 전승욱 (Information Management Lab, SNU)
 * Audio Query-based Music Source Separation, 이지환 (Music and Audio Research Group, SNU)
 * Human Pose Tracking & Motion Similarity, 박종혁 (Information Management Lab, SNU)
